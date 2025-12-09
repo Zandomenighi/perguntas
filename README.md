@@ -50,7 +50,7 @@
     <script>
         function sim() {
             alert("Você aceitou chutar a grávida! <3 :)");
-            window.open("(https://www.youtube.com/watch?v=oZgYN4qfpl4&list=RDoZgYN4qfpl4&start_radio=1)", "_blank");
+            window.open("https://www.youtube.com/watch?v=oZgYN4qfpl4&list=RDoZgYN4qfpl4&start_radio=1", "_blank");
         }
 
         function desvia(btn) {
