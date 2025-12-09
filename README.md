@@ -40,7 +40,7 @@
 
 <body>
     <div id="conteudo">
-        <h2>Aceita namorar comigo?</h2>
+        <h2>Vamo estrupar o Jottape?</h2>
         <div style="margin: auto;width: 170px;">
             <button class="btn fixed-btn" onclick="sim()">SIM</button>
             <button class="btn absolute-btn" onclick="desvia(this)" onmouseover="desvia(this)">NÃO</button>
