@@ -49,8 +49,8 @@
 
     <script>
         function sim() {
-            alert("Você aceitou namorar comigo! :)");
-            window.open("https://music.youtube.com/watch?v=izGwDsrQ1eQ", "_blank");
+            alert("Você aceitou chutar a grávida! <3 :)");
+            window.open("(https://www.youtube.com/watch?v=oZgYN4qfpl4&list=RDoZgYN4qfpl4&start_radio=1)", "_blank");
         }
 
         function desvia(btn) {
